@@ -1,0 +1,12 @@
+{
+  "name": "full-stack-workout-app",
+  "version": "1.0.0",
+  "description": "Full Stack Application using mongodb and react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node backend/server.js"
+  },
+  "author": "Mir Sameer",
+  "license": "ISC"
+}
